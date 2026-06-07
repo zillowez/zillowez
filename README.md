@@ -1,11 +1,11 @@
 >[!WARNING]
 > I moved completely to GitLab
-> Find me [@ZilloweZ](https://gitlab.com/ZilloweZ) on GitLab
+> Find me [@ZilloweZ](https://gitlab.com/zillowez) on GitLab
 
 
 <div align="center">
 <h1>ZilloweZ</h1>
-<img width="150px" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/profile.png"/>
+<img width="150px" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/profile.png"/>
 
 <br/>
 
@@ -20,7 +20,7 @@
 
 ## Hello!
 
-I'm Zaid, a software developer passionate about creating efficient and user-friendly software solutions. Currently building [@Zillowe](https://gitlab.com/Zillowe), a software organization focused on innovative tools and applications.
+I'm Zaid, a software developer passionate about creating efficient and user-friendly software solutions. Currently building [@Zillowe](https://gitlab.com/zillowe), a software organization focused on innovative tools and applications.
 
 ## 💻 Skills & Technologies
 
@@ -80,27 +80,27 @@ Focus Areas: Software Development, Full-Stack Development, Web Development
 
 ## 🚀 Projects
 
-<img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/Zillowe/Zillwen/Zusty/Zoi)
+<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/zillowe/zillwen/zusty/zoi)
 
 > Zoi is a Universal Package Manager & Environment Setup Tool written in Rust. Currently in Beta development stage.
 
-<img alt="ZDS logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/projects/zoi.svg"/> [GCT](https://gitlab.com/Zillowe/Zillwen/Zusty/GCT)
+<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zoi.svg"/> [GCT](https://gitlab.com/zillowe/zillwen/zusty/gct)
 
 > GCT is a Smart, interactive Git tool powered by AI written in Go.
 
 ## 🌐 Social
 
-<img alt="X logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweZ](https://x.com/ZilloweZ)
+<img alt="X logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweZ](https://x.com/ZilloweZ)
 
-<img alt="Discord logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/discord.svg"/> Discord: [@zillowez](https://discord.com/users/1182042030508097656)
+<img alt="Discord logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/discord.svg"/> Discord: [@zillowez](https://discord.com/users/1182042030508097656)
 
-<img alt="Instagram logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/instagram.svg"/> Instagram: [@zillowez](https://instagram.com/zillowez)
+<img alt="Instagram logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/instagram.svg"/> Instagram: [@zillowez](https://instagram.com/zillowez)
 
-<img alt="Mastodon logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/mastodon.svg"/> Mastodon.social: [@ZilloweZ@mastodon.social](https://mastodon.social/@ZilloweZ)
+<img alt="Mastodon logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/mastodon.svg"/> Mastodon.social: [@ZilloweZ@mastodon.social](https://mastodon.social/@ZilloweZ)
 
-<img alt="Matrix logo" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/matrix.svg"/> Matrix: [@ZilloweZ:matrix.org](https://matrix.to/#/@ZilloweZ:matrix.org)
+<img alt="Matrix logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/matrix.svg"/> Matrix: [@ZilloweZ:matrix.org](https://matrix.to/#/@ZilloweZ:matrix.org)
 
-<img alt="Email icon" width="15" src="https://gitlab.com/ZilloweZ/gitlab-profile/-/raw/main/assets/img/social/email.svg"/> Email: [zillowez@gmail.com](mailto:zillowez@gmail.com)
+<img alt="Email icon" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/email.svg"/> Email: [zillowez@gmail.com](mailto:zillowez@gmail.com)
 
 ## 👨‍💻 About Me
 
