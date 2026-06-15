@@ -6,107 +6,53 @@
 <div align="center">
 <h1>ZilloweZ</h1>
 <img width="150px" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/profile.png"/>
-
 <br/>
-
-<hr/>
 </div>
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&center=true&vCenter=true&random=false&width=435&lines=A+software+developer)](https://git.io/typing-svg)
 
+<hr/>
 </div>
 
 ## Hello!
 
-I'm Zaid, a software developer passionate about creating efficient and user-friendly software solutions. Currently building [@Zillowe](https://gitlab.com/zillowe), a software organization focused on innovative tools and applications.
+I'm Zaid, a software developer passionate about creating efficient and user-friendly software solutions. Currently building [@zillowe](https://gitlab.com/zillowe), a software organization focused on innovative tools and applications.
 
-## 💻 Skills & Technologies
+I'm interested in building elegant solutions to real-world problems. My passion lies in creating software that makes a difference, with a particular focus on web and full-stack development. I believe in open-source software and the power of community-driven development.
 
-Skills and Technologies I use daily or professional with.
+## Projects
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=nodejs,react,nextjs" />
-  </a>
-</div>
+<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zds.svg"/> [Zoi](https://gitlab.com/zillowe/zillwen/zusty/zoi)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rust,go,ts,js" />
-  </a>
-</div>
+> Advanced Package Manager & Environment Orchestrator written in Rust.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=vim,neovim,tailwind,git,gitlab,linux,arch,bash" />
-  </a>
-</div>
+<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zds.svg"/> [ZSM](https://gitlab.com/zillowe/zillwen/zusty/zsm)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=figma,bun,obsidian" />
-  </a>
-</div>
+> Modern, security-first replacement for bash-based installation scripts written in Zig.
 
-Skills and Technologies I'm familiar with or don't use them that often.
+<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zds.svg"/> [GCT](https://gitlab.com/zillowe/zillwen/zusty/gct)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=rails,astro,svelte" />
-  </a>
-</div>
+> An intelligent, AI-powered Git assistant written in Go.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,cpp,cs,ruby,python" />
-  </a>
-</div>
+<img alt="Zeno logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zeno.svg"/> [Zeno](https://gitlab.com/zillowe/zillwen/zowdy/zeno)
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,sqlite,postgres,redis" />
-  </a>
-</div>
+> A highly optimized, multi-purpose variable font system designed for modern interfaces and development.
 
-<div align="center">
-  <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
-  </a>
-</div>
+## Social
 
-Focus Areas: Software Development, Full-Stack Development, Web Development
-
-## 🚀 Projects
-
-<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zoi.svg"/> [Zoi](https://gitlab.com/zillowe/zillwen/zusty/zoi)
-
-> Zoi is a Universal Package Manager & Environment Setup Tool written in Rust. Currently in Beta development stage.
-
-<img alt="ZDS logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/projects/zoi.svg"/> [GCT](https://gitlab.com/zillowe/zillwen/zusty/gct)
-
-> GCT is a Smart, interactive Git tool powered by AI written in Go.
-
-## 🌐 Social
-
-<img alt="X logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@ZilloweZ](https://x.com/ZilloweZ)
+<img alt="X logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/x.svg"/> X (Twitter): [@zillowez](https://x.com/zillowez)
 
 <img alt="Discord logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/discord.svg"/> Discord: [@zillowez](https://discord.com/users/1182042030508097656)
 
 <img alt="Instagram logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/instagram.svg"/> Instagram: [@zillowez](https://instagram.com/zillowez)
 
-<img alt="Mastodon logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/mastodon.svg"/> Mastodon.social: [@ZilloweZ@mastodon.social](https://mastodon.social/@ZilloweZ)
-
-<img alt="Matrix logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/matrix.svg"/> Matrix: [@ZilloweZ:matrix.org](https://matrix.to/#/@ZilloweZ:matrix.org)
+<img alt="Bluesky logo" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/bluesky.svg"/> Bluesky: [@zillowez.bsky.social](https://bsky.app/profile/zillowez.bsky.social)
 
 <img alt="Email icon" width="15" src="https://gitlab.com/zillowez/zillowez/-/raw/main/assets/img/social/email.svg"/> Email: [zillowez@gmail.com](mailto:zillowez@gmail.com)
 
-## 👨‍💻 About Me
-
-I'm interested in building elegant solutions to real-world problems. My passion lies in creating software that makes a difference, with a particular focus on web and full-stack development. I believe in open-source software and the power of community-driven development.
-
-## 📫 Get in Touch
+## Get in Touch
 
 Feel free to reach out through any of my social media platforms listed above if you're interested in collaborating on projects or just want to connect!
 
